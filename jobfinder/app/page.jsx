@@ -218,7 +218,7 @@ export default function Home() {
                     </path>
                   </svg>
                 </div>
-                <h3 className="mt-4 text-xl font-medium text-gray-900">Apply Anonymously</h3>
+                <h3 className="mt-4 text-xl font-medium text-gray-900">Apply</h3>
                 <p className="mt-2 text-gray-600">Submit your application confidentially and get noticed for your
                   skills, not your background.</p>
               </div>
